@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 
 import Expenses from './components/Expenses/Expenses';
-// import NewExpense from "./components/NewExpense/NewExpense";
 import NewExpenseTest from "./components/NewExpense/NewExpenseTest";
 
 const DUMMY_EXPENSES = [
@@ -44,3 +43,4 @@ const App = () => {
 }
 
 export default App;
+
